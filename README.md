@@ -1,4 +1,4 @@
-# dsa 2018
+# Data Science Africa 2018, hands on exercise.
 
 <h2>Introduction</h2>
 
@@ -23,7 +23,7 @@ The data is a time series of weather sensor readings, consisting of different ph
 <li>srad --- Solar radiation. 
 </ul>
  
-The fields are recorded every 5 minutes for two years from 2016-2017. The dataset is observation averaged on hour scale. 
+The fields are recorded every 5 minutes for two years from 2016-2017. The dataset is observation averaged on hour scale. For this exercise a percipitation data from multiple stations is selected as primary target.
 
 
 ### Station description
